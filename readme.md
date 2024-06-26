@@ -76,7 +76,7 @@ Feel free to contact me at dr.bcary@gmail.com if you have questions.
 <!-- LICENSE -->
 ## License
 
-BehCoder code is not currently licensed.
+BehCoder code is licensed under GNU General Public License 3 (GPL-3.0)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
