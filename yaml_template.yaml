@@ -1,0 +1,27 @@
+labels:
+- CrickEnter
+- FirstApp
+- LastApp
+- Eat
+
+fps: 20
+
+xlims: [0,inf]
+ylims: [0,inf]
+
+dlc_conf_thresh: 0.75
+
+dlc_interp_factor: 1
+interp_fill_lim: 2 #in seconds
+dlc_smooth_ON: True
+dlc_sm_sec: 1
+pose_to_exclude: []
+head_body_norm: [3,6]
+
+no_abs_pose: True
+
+max_model_len: 30000
+model_nTrees: 400
+ML_norm_ON: False
+ML_PCA_ON: False
+double_train_ON: True
