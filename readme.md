@@ -29,7 +29,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -68,15 +67,6 @@ pip install -r requirements.txt
 Instructions for use located in word document tutorial.
 
 Feel free to contact me at dr.bcary@gmail.com if you have questions.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-BehCoder code is licensed under GNU General Public License 3 (GPL-3.0)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

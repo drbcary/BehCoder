@@ -5,18 +5,14 @@ Created on Fri Aug 12 12:15:17 2022
 @author: bcary
 
 
-TODO:
--make 100% consistent aligned frame pos
-    
--make frame counting start from 1 not zero to be consistent with save files
-    
+TODO:        
 -make video desc text wrap
 
 -add indicator if dlc file already loaded
 
 -move self.videoplayer.fps to just self.fps?
 
--consolidate code repititions especially in model predict
+-consolidate code repetitions especially in model predict
 
 -when you frame jump it doesnt update slider bounds
 
